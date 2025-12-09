@@ -1,4 +1,32 @@
-# RAQS
-Relational Actualization of Quantum States: A Unified Information–Geometric Framework for Quantum Mechanics, Gravitation, and Dark Structure
+Relational Actualization of Quantum States (RAQS)
+Official Peer-Review Manuscript (2025)
 
-Relational Actualization of Quantum States (RAQS) is a unified information–geometric framework in which quantum behavior, classicality, spacetime geometry, and black-hole information dynamics emerge from the structure of relational information. Rather than assigning intrinsic quantum states to isolated systems, RAQS models physics through adjacency amplitudes, relational density operators, Fisher-information geometry, and Dark Structure—a nonlinear constraint manifold that determines which relational configurations can become physically actualized. This work presents the first complete formulation of RAQS, including: A gauge-invariant relational master equation governing dynamical evolution. An informational action whose variation yields Einstein-like field equations, demonstrating how classical spacetime emerges from informational curvature. A constraint architecture (Dark Structure) that governs measurement, decoherence, classicality, and admissible relational configurations. A comprehensive empirical program validating RAQS predictions, including: linear decoherence–information scaling, structured non-thermal spectral asymmetries, low-dimensional curved relational manifolds, robustness to noise and manifold perturbations, black-hole frequency–frequency correlation signatures consistent with information preservation. The manuscript situates RAQS within relational quantum mechanics, decoherence theory, information geometry, and thermodynamic gravity, and it provides measurable predictions relevant to analogue-gravity platforms and quantum-simulation experiments. RAQS establishes a falsifiable, information-theoretic pathway toward unifying quantum mechanics and gravity.
+RAQS is an information–geometric dynamical framework in which physical behavior emerges from
+relational constraints rather than intrinsic system states. The theory introduces adjacency
+amplitudes, relational density operators, and Dark Structure to generate emergent spacetime,
+black-hole information flow, and quantum-classical behavior. This repository contains the official
+2025 peer-review manuscript and supporting materials.
+
+RAQS Semantic Identity
+
+RAQS is defined by a mathematical structure unique within quantum foundations. Its core objects—
+adjacency amplitudes, relational density operator, Dark Structure admissibility constraints, and a
+relational master equation—combine with a Fisher-information metric to produce a curved relational
+manifold. These features yield emergent spacetime geometry, constraint-driven state actualization,
+and information-geometric dynamics. None of these constructs appear in Relational Quantum Mechanics
+(RQM), Quantum Reference Frames (QRFs), or QBism. RAQS is a standalone physical theory, not an
+interpretation.
+
+📄 Download the Official Manuscript
+
+RAQS_Manuscript_2025_PeerReviewBuild.pdf
+
+Citation
+
+Vasquez, K. (2025). Relational Actualization of Quantum States: A Unified Information–Geometric
+Framework for Quantum Mechanics, Gravitation, and Dark Structure. Zenodo. DOI: [https://doi.org/10.5281/zenodo.17844827]
+
+Version Notice
+
+This is the official and canonical version of the RAQS framework (2025). All earlier drafts
+(including v1–v9) are obsolete and should not be referenced.
